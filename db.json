@@ -10157,5 +10157,27 @@
       "weightKg": 74.4,
       "previousSeasonStats": null
     }
+  ],
+  "Comments": [
+    {
+      "id": "1",
+      "teamId": "ATL",
+      "comment": "test"
+    },
+    {
+      "id": "2",
+      "teamId": "ATL",
+      "comment": "test"
+    },
+    {
+      "id": "3",
+      "teamId": "BOS",
+      "comment": "test"
+    },
+    {
+      "id": "4",
+      "teamId": "BOS",
+      "comment": "test"
+    }
   ]
 }
